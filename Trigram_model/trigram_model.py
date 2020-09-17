@@ -8,7 +8,6 @@ import os.path
 import collections
 
 #Ruilong Tang
-#uni: rt2701
 
 def corpus_reader(corpusfile, lexicon=None): 
     with open(corpusfile,'r') as corpus: 
