@@ -6,3 +6,5 @@ projects related to nlp
 ## Dependency Parsing
 ## Lexical Substitution
 ## Trigram Model
+## LSTM Image Captioning
+shared with jupyter notebook from colab. 
